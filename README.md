@@ -1,4 +1,4 @@
-# User Manual: Working with David
+# User Manual: Working with Me
 
 **Role:** Engineering Manager / Data Leader / Snark as a Service Purveyor
 
